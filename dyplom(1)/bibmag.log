@@ -1,0 +1,62 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2017.4.23)  3 MAY 2017 20:24
+entering extended mode
+**C:/Users/Kateryna/Desktop/latex/dyplom(1)/bibmag.bib
+(C:/Users/Kateryna/Desktop/latex/dyplom(1)/bibmag.bib
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+
+Overfull \hbox (10.13487pt too wide) in paragraph at lines 3--10
+[]\tenrm @BookKrolikowski2012, ti-tle = Polimerowe kom-pozyty kon-struk-cyjne, 
+pub-lisher = Wydawnictwo Naukowe|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm B
+.\tenrm o
+.\kern0.27779
+.etc.
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+
+Overfull \hbox (46.16275pt too wide) in paragraph at lines 25--31
+[]\tenrm @ArticleKompCer, au-thor = Ro-man Pam-puch, ti-tle = Kom-pozyty ce-ram
+-iczne, jour-nal = Kom-pozyty(Composites),|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm A
+.\tenrm r
+.\tenrm t
+.etc.
+
+Missing character: There is no Å in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ™ in font cmr10!
+)
+*
+! Emergency stop.
+<*> ...Kateryna/Desktop/latex/dyplom(1)/bibmag.bib
+                                                  
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
