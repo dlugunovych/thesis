@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.26)  6 MAY 2017 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.26)  7 MAY 2017 20:44
 entering extended mode
 **pracav1.tex
 (pracav1.tex
@@ -519,156 +519,181 @@ Rozdzia\PlPrIeC {\l } 1.
 [2
 
 ]
-<C:/Users/Kateryna/Desktop/latex/pictures/MMCpiston.png, id=19, 278.54062pt x 3
-02.63063pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/MMCpiston.png Graphic file (type
- png)
- <use C:/Users/Kateryna/Desktop/latex/pictures/MMCpiston.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/MMCpiston.png
- used on input line 53.
+<C:/Users/Kateryna/Documents/thesis/pictures/MMCpiston.png, id=19, 278.54062pt 
+x 302.63063pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/MMCpiston.png Graphic file (t
+ype png)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/MMCpiston.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/MMCpiston.
+png used on input line 53.
 (pdftex.def)             Requested size: 213.39568pt x 231.858pt.
 
-<C:/Users/Kateryna/Desktop/latex/pictures/Classification.png, id=21, 665.8476pt
- x 389.7762pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/Classification.png Graphic file 
-(type png)
+<C:/Users/Kateryna/Documents/thesis/pictures/Classification.png, id=21, 665.847
+6pt x 389.7762pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/Classification.png Graphic fi
+le (type png)
 
-<use C:/Users/Kateryna/Desktop/latex/pictures/Classification.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/Classificatio
-n.png used on input line 76.
+<use C:/Users/Kateryna/Documents/thesis/pictures/Classification.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/Classifica
+tion.png used on input line 76.
 (pdftex.def)             Requested size: 426.79135pt x 249.83655pt.
- [3 <C:/Users/Kateryna/Desktop/latex/pictures/MMCpiston.png>] [4 <C:/Users/Kate
-ryna/Desktop/latex/pictures/Classification.png>]
+ [3 <C:/Users/Kateryna/Documents/thesis/pictures/MMCpiston.png>] [4 <C:/Users/K
+ateryna/Documents/thesis/pictures/Classification.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-<C:/Users/Kateryna/Desktop/latex/pictures/LDPE.jpg, id=35, 281.55188pt x 98.618
-44pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/LDPE.jpg Graphic file (type jpg)
-
- <use C:/Users/Kateryna/Desktop/latex/pictures/LDPE.jpg>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/LDPE.jpg used
- on input line 137.
+<C:/Users/Kateryna/Documents/thesis/pictures/LDPE.jpg, id=35, 281.55188pt x 98.
+61844pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/LDPE.jpg Graphic file (type j
+pg)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/LDPE.jpg>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/LDPE.jpg u
+sed on input line 137.
 (pdftex.def)             Requested size: 213.39568pt x 74.74612pt.
 
-<C:/Users/Kateryna/Desktop/latex/pictures/HDPE.jpg, id=36, 281.55188pt x 14.303
-44pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/HDPE.jpg Graphic file (type jpg)
-
- <use C:/Users/Kateryna/Desktop/latex/pictures/HDPE.jpg>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/HDPE.jpg used
- on input line 143.
+<C:/Users/Kateryna/Documents/thesis/pictures/HDPE.jpg, id=36, 281.55188pt x 14.
+30344pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/HDPE.jpg Graphic file (type j
+pg)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/HDPE.jpg>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/HDPE.jpg u
+sed on input line 143.
 (pdftex.def)             Requested size: 213.39568pt x 10.84103pt.
 
-<C:/Users/Kateryna/Desktop/latex/pictures/PA6.jpg, id=37, 57.816pt x 34.4487pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/PA6.jpg Graphic file (type jpg)
-<use C:/Users/Kateryna/Desktop/latex/pictures/PA6.jpg>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/PA6.jpg used 
-on input line 151.
+<C:/Users/Kateryna/Documents/thesis/pictures/PA6.jpg, id=37, 57.816pt x 34.4487
+pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/PA6.jpg Graphic file (type jp
+g)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/PA6.jpg>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/PA6.jpg us
+ed on input line 151.
 (pdftex.def)             Requested size: 213.39568pt x 127.1554pt.
 
 Underfull \vbox (badness 1681) has occurred while \output is active []
 
- [6 <C:/Users/Kateryna/Desktop/latex/pictures/LDPE.jpg> <C:/Users/Kateryna/Desk
-top/latex/pictures/HDPE.jpg>]
+ [6 <C:/Users/Kateryna/Documents/thesis/pictures/LDPE.jpg> <C:/Users/Kateryna/D
+ocuments/thesis/pictures/HDPE.jpg>]
 Overfull \hbox (2.92545pt too wide) in paragraph at lines 189--190
 \OT4/qtm/m/n/12 mia-ru (z ang. si-ze ef-fect), praw-do-po-do-bie«-stwo wy-st¡-p
 ie-nia nie-do-sko-na-ªo-±ci jest mniej-
  []
 
-[7 <C:/Users/Kateryna/Desktop/latex/pictures/PA6.jpg>]
-<C:/Users/Kateryna/Desktop/latex/pictures/diameter.png, id=48, 462.22687pt x 40
-4.26031pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/diameter.png Graphic file (type 
-png)
- <use C:/Users/Kateryna/Desktop/latex/pictures/diameter.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/diameter.png 
-used on input line 196.
+[7 <C:/Users/Kateryna/Documents/thesis/pictures/PA6.jpg>]
+<C:/Users/Kateryna/Documents/thesis/pictures/diameter.png, id=48, 462.22687pt x
+ 404.26031pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/diameter.png Graphic file (ty
+pe png)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/diameter.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/diameter.p
+ng used on input line 196.
 (pdftex.def)             Requested size: 341.43437pt x 298.61745pt.
 
-Underfull \vbox (badness 1675) has occurred while \output is active []
+Overfull \hbox (28.68059pt too wide) in paragraph at lines 211--212
+\OT4/qtm/m/n/12 po-zy-tach o osno-wie po-li-me-ro-wej gªów-nie s¡ sto-so-wa-ne 
+wªók-na ze szkªa boro-glino-krzemowego,
+ []
 
- [8 <C:/Users/Kateryna/Desktop/latex/pictures/diameter.png>]
-<C:/Users/Kateryna/Desktop/latex/pictures/nawijanie.png, id=54, 331.99031pt x 2
-18.31563pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/nawijanie.png Graphic file (type
- png)
- <use C:/Users/Kateryna/Desktop/latex/pictures/nawijanie.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/nawijanie.png
- used on input line 233.
+[8 <C:/Users/Kateryna/Documents/thesis/pictures/diameter.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 213.
+
+
+<C:/Users/Kateryna/Documents/thesis/pictures/glassfiber.png, id=54, 578.16pt x 
+162.6075pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/glassfiber.png Graphic file (
+type png)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/glassfiber.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/glassfiber
+.png used on input line 215.
+(pdftex.def)             Requested size: 341.43437pt x 96.02692pt.
+
+Underfull \vbox (badness 1087) has occurred while \output is active []
+
+ [9 <C:/Users/Kateryna/Documents/thesis/pictures/glassfiber.png>]
+<C:/Users/Kateryna/Documents/thesis/pictures/nawijanie.png, id=59, 331.99031pt 
+x 218.31563pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/nawijanie.png Graphic file (t
+ype png)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/nawijanie.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/nawijanie.
+png used on input line 248.
 (pdftex.def)             Requested size: 426.79135pt x 280.67224pt.
-
-<C:/Users/Kateryna/Desktop/latex/pictures/pulltruzion.png, id=55, 506.6428pt x 
-170.88844pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/pulltruzion.png Graphic file (ty
-pe png)
- <use C:/Users/Kateryna/Desktop/latex/pictures/pulltruzion.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/pulltruzion.p
-ng used on input line 238.
-(pdftex.def)             Requested size: 426.79135pt x 143.95729pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9 <C:/Users/Kateryna/Desktop/latex/pictures/nawijanie.png>]
-<C:/Users/Kateryna/Desktop/latex/pictures/FML.png, id=60, 315.42844pt x 210.787
-5pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/FML.png Graphic file (type png)
- <use C:/Users/Kateryna/Desktop/latex/pictures/FML.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/FML.png used 
-on input line 252.
+ [10]
+<C:/Users/Kateryna/Documents/thesis/pictures/pulltruzion.png, id=63, 506.6428pt
+ x 170.88844pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/pulltruzion.png Graphic file 
+(type png)
+
+<use C:/Users/Kateryna/Documents/thesis/pictures/pulltruzion.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/pulltruzio
+n.png used on input line 253.
+(pdftex.def)             Requested size: 426.79135pt x 143.95729pt.
+ [11 <C:/Users/Kateryna/Documents/thesis/pictures/nawijanie.png> <C:/Users/Kate
+ryna/Documents/thesis/pictures/pulltruzion.png>]
+<C:/Users/Kateryna/Documents/thesis/pictures/FML.png, id=69, 315.42844pt x 210.
+7875pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/FML.png Graphic file (type pn
+g)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/FML.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/FML.png us
+ed on input line 267.
 (pdftex.def)             Requested size: 213.39568pt x 142.60349pt.
- [10 <C:/Users/Kateryna/Desktop/latex/pictures/pulltruzion.png> <C:/Users/Kater
-yna/Desktop/latex/pictures/FML.png>] [11]
+ [12 <C:/Users/Kateryna/Documents/thesis/pictures/FML.png>]
 Rozdzia\PlPrIeC {\l } 2.
-[12
+[13
 
 ]
 Rozdzia\PlPrIeC {\l } 3.
-[13
+[14
 
 ]
 Rozdzia\PlPrIeC {\l } 4.
 
-<C:/Users/Kateryna/Desktop/latex/pictures/sample1roz.png, id=76, 519.3804pt x 3
-49.7868pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/sample1roz.png Graphic file (typ
-e png)
- <use C:/Users/Kateryna/Desktop/latex/pictures/sample1roz.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/sample1roz.pn
-g used on input line 302.
+<C:/Users/Kateryna/Documents/thesis/pictures/sample1roz.png, id=81, 519.3804pt 
+x 349.7868pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/sample1roz.png Graphic file (
+type png)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/sample1roz.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/sample1roz
+.png used on input line 317.
 (pdftex.def)             Requested size: 426.79135pt x 287.43015pt.
 
-<C:/Users/Kateryna/Desktop/latex/pictures/sample2roz.png, id=77, 491.436pt x 36
-1.8318pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/sample2roz.png Graphic file (typ
-e png)
- <use C:/Users/Kateryna/Desktop/latex/pictures/sample2roz.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/sample2roz.pn
-g used on input line 307.
+<C:/Users/Kateryna/Documents/thesis/pictures/sample2roz.png, id=82, 491.436pt x
+ 361.8318pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/sample2roz.png Graphic file (
+type png)
+ <use C:/Users/Kateryna/Documents/thesis/pictures/sample2roz.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/sample2roz
+.png used on input line 322.
 (pdftex.def)             Requested size: 426.79135pt x 314.25006pt.
 
-<C:/Users/Kateryna/Desktop/latex/pictures/bothsamplesroz.png, id=78, 519.3804pt
- x 349.7868pt>
-File: C:/Users/Kateryna/Desktop/latex/pictures/bothsamplesroz.png Graphic file 
-(type png)
+<C:/Users/Kateryna/Documents/thesis/pictures/bothsamplesroz.png, id=83, 519.380
+4pt x 349.7868pt>
+File: C:/Users/Kateryna/Documents/thesis/pictures/bothsamplesroz.png Graphic fi
+le (type png)
 
-<use C:/Users/Kateryna/Desktop/latex/pictures/bothsamplesroz.png>
-Package pdftex.def Info: C:/Users/Kateryna/Desktop/latex/pictures/bothsamplesro
-z.png used on input line 312.
+<use C:/Users/Kateryna/Documents/thesis/pictures/bothsamplesroz.png>
+Package pdftex.def Info: C:/Users/Kateryna/Documents/thesis/pictures/bothsample
+sroz.png used on input line 327.
 (pdftex.def)             Requested size: 426.79135pt x 287.43015pt.
- [14
+ [15
 
-] [15 <C:/Users/Kateryna/Desktop/latex/pictures/sample1roz.png> <C:/Users/Kater
-yna/Desktop/latex/pictures/sample2roz.png>] [16 <C:/Users/Kateryna/Desktop/late
-x/pictures/bothsamplesroz.png>]
+]
+[16 <C:/Users/Kateryna/Documents/thesis/pictures/sample1roz.png> <C:/Users/Kate
+ryna/Documents/thesis/pictures/sample2roz.png>] [17 <C:/Users/Kateryna/Document
+s/thesis/pictures/bothsamplesroz.png>]
 Rozdzia\PlPrIeC {\l } 5.
-[17
+[18
 
 ]
 Rozdzia\PlPrIeC {\l } 6.
-(pracav1.bbl [18
+(pracav1.bbl [19
 
-]) [19
+]) [20
 
 ] (pracav1.aux)
 
@@ -683,13 +708,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3333 strings out of 493698
- 44378 string characters out of 3151682
- 121241 words of memory out of 3000000
- 6574 multiletter control sequences out of 15000+200000
+ 3338 strings out of 493698
+ 44790 string characters out of 3151682
+ 121244 words of memory out of 3000000
+ 6578 multiletter control sequences out of 15000+200000
  28070 words of font info for 38 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,15n,37p,937b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,15n,37p,1029b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
 {E:/MiKTeX/fonts/enc/dvips/tex-gyre/q-rm.enc}{E:/MiKTeX/fonts/enc/dvips/cm-su
 per/cm-super-t1.enc}<E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><E:/MiKTeX/fonts/type1/public/am
@@ -701,9 +726,9 @@ fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/type1/public/tex-gyre
 1/public/tex-gyre/qtmri.pfb><E:/MiKTeX/fonts/type1/public/cm-super/sfrm1440.pfb
 ><E:/MiKTeX/fonts/type1/public/cm-super/sfrm1728.pfb><E:/MiKTeX/fonts/type1/pub
 lic/cm-super/sfrm2074.pfb><E:/MiKTeX/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on pracav1.pdf (20 pages, 745788 bytes).
+Output written on pracav1.pdf (21 pages, 765704 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
