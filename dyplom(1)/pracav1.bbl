@@ -13,6 +13,16 @@ Alta Y.N.~Choi A.~Asundi.
 \newblock Fiber metal laminates: An advanced material for future aircraft.
 \newblock {\em Journal of Materials Processing Technology}, 1997.
 
+\bibitem{FMLFatigue}
+Rene Alderliesten.
+\newblock {\em Fatigue and Fracture if Fibre Metal Laminates}.
+\newblock Springer, 2017.
+
+\bibitem{anod}
+Rider A.N.
+\newblock The surface treatment and finishing of aluminium and its alloys.
+\newblock {\em Materials Park}, 2001.
+
 \bibitem{FML}
 Jarosław Bieniaś.
 \newblock Fibre metal laminates - some aspects of manufacturing process,
@@ -23,6 +33,16 @@ Jarosław Bieniaś.
 Krishan~K. Chawla.
 \newblock {\em Composite materials}.
 \newblock Springer New York, 1998.
+
+\bibitem{surface}
+Brewis~D.M. Critchlow~G.W.
+\newblock Review of surface pretreatments for alluminium alloys.
+\newblock {\em International Journal of Adhesion and Adhesives}, 1996.
+
+\bibitem{aero}
+Minford J.D.
+\newblock {\em Handbook of aluminium bonding technology and data}.
+\newblock Marcel Dekker, 1993.
 
 \bibitem{KompMetal}
 Stefan~Wojciechowski Jerzy~Sobczak.
@@ -50,6 +70,12 @@ Wacław Królikowski.
 Roman Pampuch.
 \newblock Kompozyty ceramiczne.
 \newblock {\em Kompozyty(Composites)}, 2002.
+
+\bibitem{FMLRev}
+Mustafa Ozgur Bora Onur~Coban Tamer~Sinmazcelik, Egemen~Avcu.
+\newblock A review: Fibre metal laminates, background, bonding types and
+  applied test methods.
+\newblock {\em Materials and Design}, 2011.
 
 \bibitem{Dresher}
 Dresher W.H.

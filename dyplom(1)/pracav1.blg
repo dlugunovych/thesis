@@ -3,9 +3,13 @@ The style file: plplain.bst
 Database file #1: bibmag.bib
 Warning--to sort, need author or key in wiki
 Warning--to sort, need author or key in wikiPA
+Too many commas in name 1 of "Tamer Sinmazcelik, Egemen Avcu, Mustafa Ozgur Bora, Onur Coban" for entry FMLRev
+while executing---line 1171 of file plplain.bst
 Warning--empty author in wikiPA
 Warning--empty journal in wikiPA
 Warning--empty author in wiki
 Warning--empty journal in wiki
 Warning--can't use both author and editor fields in Krolikowski2012
-(There were 7 warnings)
+Too many commas in name 1 of "Tamer Sinmazcelik, Egemen Avcu, Mustafa Ozgur Bora, Onur Coban" for entry FMLRev
+while executing---line 1225 of file plplain.bst
+(There were 2 error messages)

@@ -10,19 +10,23 @@
 \contentsline {section}{\numberline {1.6\relax .\kern .5em }Po\IeC {\l }\IeC {\k a}czenie metal kompozyt}{12}
 \contentsline {subsection}{\numberline {1.6.1\relax .\kern .5em }Wytwarzanie FML}{13}
 \contentsline {subsection}{\numberline {1.6.2\relax .\kern .5em }Fizyka po\IeC {\l }\IeC {\k a}czenia}{13}
-\contentsline {chapter}{\numberline {2\relax .\kern .5em }Opracowanie konstrukcji stanowiska badawczego}{14}
-\contentsline {section}{\numberline {2.1\relax .\kern .5em }Za\IeC {\l }o\IeC {\.z}enia konstrukcyjne}{14}
-\contentsline {section}{\numberline {2.2\relax .\kern .5em }Przyj\IeC {\k e}te rozwi\IeC {\k a}zania}{14}
-\contentsline {chapter}{\numberline {3\relax .\kern .5em }Wykonanie konstrukcji stanowiska badawczego}{15}
-\contentsline {section}{\numberline {3.1\relax .\kern .5em }Proces powstawania stanowiska}{15}
-\contentsline {section}{\numberline {3.2\relax .\kern .5em }Pr\IeC {\'o}by ruchowe - podsumowanie}{15}
-\contentsline {chapter}{\numberline {4\relax .\kern .5em }Metodyka bada\IeC {\'n}}{16}
-\contentsline {section}{\numberline {4.1\relax .\kern .5em }Wykonanie pr\IeC {\'o}bek}{16}
-\contentsline {section}{\numberline {4.2\relax .\kern .5em }Parametry zmienne}{16}
-\contentsline {section}{\numberline {4.3\relax .\kern .5em }Badania wytrzyma\IeC {\l }o\IeC {\'s}ciowe}{16}
-\contentsline {subsection}{\numberline {4.3.1\relax .\kern .5em }Badania wytrzyma\IeC {\l }o\IeC {\'s}ci na zginanie}{16}
-\contentsline {subsection}{\numberline {4.3.2\relax .\kern .5em }Badania wytrzyma\IeC {\l }o\IeC {\'s}ci na skr\IeC {\k e}canie, rozci\IeC {\k a}ganie}{16}
-\contentsline {subsection}{\numberline {4.3.3\relax .\kern .5em }Badania zg\IeC {\l }ad\IeC {\'o}w mikroskopowych}{16}
-\contentsline {chapter}{\numberline {5\relax .\kern .5em }Opracowanie wynik\IeC {\'o}w bada\IeC {\'n}}{19}
-\contentsline {chapter}{\numberline {6\relax .\kern .5em }Podsumowanie i wnioski}{20}
-\contentsline {chapter}{Bibliografia}{21}
+\contentsline {subsection}{\numberline {1.6.3\relax .\kern .5em }Obr\IeC {\'o}bka mechaniczna}{14}
+\contentsline {subsection}{\numberline {1.6.4\relax .\kern .5em }Obr\IeC {\'o}bka chemiczna}{14}
+\contentsline {subsection}{\numberline {1.6.5\relax .\kern .5em }Obr\IeC {\'o}bka elektrochemiczna}{14}
+\contentsline {subsection}{\numberline {1.6.6\relax .\kern .5em }U\IeC {\.z}ycie \IeC {\'s}rodk\IeC {\'o}w \IeC {\l }\IeC {\k a}cz\IeC {\k a}cych}{14}
+\contentsline {chapter}{\numberline {2\relax .\kern .5em }Opracowanie konstrukcji stanowiska badawczego}{16}
+\contentsline {section}{\numberline {2.1\relax .\kern .5em }Za\IeC {\l }o\IeC {\.z}enia konstrukcyjne}{16}
+\contentsline {section}{\numberline {2.2\relax .\kern .5em }Przyj\IeC {\k e}te rozwi\IeC {\k a}zania}{16}
+\contentsline {chapter}{\numberline {3\relax .\kern .5em }Wykonanie konstrukcji stanowiska badawczego}{17}
+\contentsline {section}{\numberline {3.1\relax .\kern .5em }Proces powstawania stanowiska}{17}
+\contentsline {section}{\numberline {3.2\relax .\kern .5em }Pr\IeC {\'o}by ruchowe - podsumowanie}{17}
+\contentsline {chapter}{\numberline {4\relax .\kern .5em }Metodyka bada\IeC {\'n}}{18}
+\contentsline {section}{\numberline {4.1\relax .\kern .5em }Wykonanie pr\IeC {\'o}bek}{18}
+\contentsline {section}{\numberline {4.2\relax .\kern .5em }Parametry zmienne}{18}
+\contentsline {section}{\numberline {4.3\relax .\kern .5em }Badania wytrzyma\IeC {\l }o\IeC {\'s}ciowe}{18}
+\contentsline {subsection}{\numberline {4.3.1\relax .\kern .5em }Badania wytrzyma\IeC {\l }o\IeC {\'s}ci na zginanie}{18}
+\contentsline {subsection}{\numberline {4.3.2\relax .\kern .5em }Badania wytrzyma\IeC {\l }o\IeC {\'s}ci na skr\IeC {\k e}canie, rozci\IeC {\k a}ganie}{18}
+\contentsline {subsection}{\numberline {4.3.3\relax .\kern .5em }Badania zg\IeC {\l }ad\IeC {\'o}w mikroskopowych}{18}
+\contentsline {chapter}{\numberline {5\relax .\kern .5em }Opracowanie wynik\IeC {\'o}w bada\IeC {\'n}}{21}
+\contentsline {chapter}{\numberline {6\relax .\kern .5em }Podsumowanie i wnioski}{22}
+\contentsline {chapter}{Bibliografia}{23}
